@@ -58,6 +58,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 ---
 
+## 🕸 Organização do Projeto
+
+Trello
+  - Utilizamos para separarmos as tarefas de forma simples, clara e objetiva.
+
+Figma
+  - Utilizamos para o desenvolvimento da prototipação.
+
+GitHub
+  - Utilizamos para hospedarmos o código do projeto.
+  
+---
+
 ## 🦸 Squad
 
 <a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
