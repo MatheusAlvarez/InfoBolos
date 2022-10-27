@@ -5,7 +5,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> •  
  <a href="#-squad">Squad</a> • 
  <a href="#user-content--licença">Licença</a>
@@ -32,21 +31,6 @@ Usuários visitantes podem:
 - [x] Navegar pelo nosso app incrível
 - [x] Seguir passo-a-passo das receitas para impressionar amigos
 - [x] Visualizar a imagem da receita final
----
-
-## 🎨 Layout
-
-![1](https://github.com/MatheusAlvarez/Camera-App/blob/main/_assets/001.png) - ![2](https://github.com/MatheusAlvarez/Camera-App/blob/main/_assets/002.png)
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-#### [React Native](https://reactnative.dev)
-
--   **[expo-camera](https://reactnative.dev)**
--   **[expo-sharing](https://docs.expo.dev/versions/latest/sdk/sharing/)**
-
 ---
 
 ## 💪 Como contribuir para o projeto
